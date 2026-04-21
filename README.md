@@ -50,3 +50,6 @@ O sistema realiza leituras contínuas dos sensores e toma decisões automáticas
 
 O sistema demonstrou ser eficiente na automação da irrigação, contribuindo para a economia de água e melhoria da produtividade agrícola.
 
+## 🎥 Vídeo
+
+Não foi possível anexar o vídeo nesta entrega, porém o funcionamento completo do sistema pode ser verificado através da descrição detalhada e das imagens do circuito presentes neste repositório.
