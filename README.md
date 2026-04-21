@@ -46,5 +46,7 @@ O sistema realiza leituras contínuas dos sensores e toma decisões automáticas
 
 ---
 
+## 📊 Considerações finais
 
+O sistema demonstrou ser eficiente na automação da irrigação, contribuindo para a economia de água e melhoria da produtividade agrícola.
 
