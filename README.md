@@ -42,10 +42,9 @@ O sistema realiza leituras contínuas dos sensores e toma decisões automáticas
 
 ## 📷 Circuito
 
-<img width="679" height="356" alt="image" src="https://github.com/user-attachments/assets/8a0981f0-884e-4286-9d3d-6a56f5a63017" />
+<img width="611" height="361" alt="Captura de tela 2026-04-19 203733" src="https://github.com/user-attachments/assets/b3ae8748-e959-47e1-ba9e-d3e3bc82ad44" />
 
 ---
 
-## 🎥 Vídeo
 
-(Adicionar link do YouTube)
+
