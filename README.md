@@ -42,7 +42,7 @@ O sistema realiza leituras contínuas dos sensores e toma decisões automáticas
 
 ## 📷 Circuito
 
-(Adicionar imagem do Wokwi)
+<img width="679" height="356" alt="image" src="https://github.com/user-attachments/assets/8a0981f0-884e-4286-9d3d-6a56f5a63017" />
 
 ---
 
